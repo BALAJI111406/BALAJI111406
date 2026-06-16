@@ -16,7 +16,7 @@
 - 🔭 Built an **AI-powered exam management system** that reduced manual planning time by **80%**
 - 💻 Hands-on experience with **full-stack MERN development** and **production-ready applications**
 - 🌱 Exploring **Rule-Based AI**, **scalable APIs**, and **modern UI/UX**
-- 📍 Based in **Chennai, Tamil Nadu, India**
+- 📍 Based in **Coimbatore, Tamil Nadu, India**
 - 📫 **balasai1406@gmail.com**
 - 🚀 Seeking a **Software Engineering Internship**
 
