@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&height=80&lines=Hi+there%2C+I'm+Balaji+G+%F0%9F%91%8B;Full+Stack+Developer+(MERN);React+%7C+Node.js+%7C+MongoDB+%7C+Python;AI+%26+Web+Solutions+Builder+%F0%9F%A4%96" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&height=80&lines=Hi+there%2C+I'm+Balaji+G+%F0%9F%91%8B;Data+Analyst;Python+%7C+SQL+%7C+Power+BI+%7C+Pandas;Turning+Raw+Data+into+Business+Insights+%F0%9F%93%8A" alt="Typing SVG" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1000&color=8B949E&center=true&vCenter=true&width=560&height=40&lines=CS+Engineering+Student+%40+KGiSL+Institute+of+Technology;Reduced+exam+planning+time+by+80%25+with+AI+%F0%9F%9A%80;Open+to+Software+Engineering+Internships!" alt="Subtitle" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1000&color=8B949E&center=true&vCenter=true&width=560&height=40&lines=CS+Engineering+Student+%40+KGiSL+Institute+of+Technology;Google+%26+IBM+Data+Analytics+Certified;Open+to+Data+Analyst+Internships!" alt="Subtitle" />
 
 </div>
 
@@ -13,12 +13,14 @@
 ## 🙋‍♂️ About Me
 
 - 🎓 B.E. in **Computer Science & Engineering** at **KGiSL Institute of Technology** (CGPA: 8.13/10)
-- 🔭 Built an **AI-powered exam management system** that reduced manual planning time by **80%**
-- 💻 Hands-on experience with **full-stack MERN development** and **production-ready applications**
-- 🌱 Exploring **Rule-Based AI**, **scalable APIs**, and **modern UI/UX**
+- 📊 **Google & IBM Data Analytics Certified**
+- 🔍 Skilled in **data cleaning, EDA, SQL querying, and dashboard storytelling**
+- 💻 Hands-on experience with **Python (Pandas, NumPy), SQL, SQLite, MongoDB, and Power BI**
+- 📈 Built multiple end-to-end analytics projects — from RFM segmentation to HR & sports analytics dashboards
+- 🌱 Exploring **DAX, Power Query, and advanced data modeling**
 - 📍 Based in **Coimbatore, Tamil Nadu, India**
 - 📫 **balasai1406@gmail.com**
-- 🚀 Seeking a **Software Engineering Internship**
+- 🚀 Seeking a **Data Analyst Internship**
 
 ---
 
@@ -26,11 +28,26 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,ts,py,java,html,css&perline=5&theme=dark" alt="Tech Stack Icons" />
+<img src="https://skillicons.dev/icons?i=py,mysql,js,html,css,java&perline=6&theme=dark" alt="Languages" />
 
 <br/><br/>
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman&perline=5&theme=dark" alt="Tools Icons" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&perline=6&theme=dark" alt="Tools" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+| Skill | Level |
+|-------|-------|
+| Power BI (DAX, Power Query) | `████████░░` Strong |
+| SQL | `████████░░` Strong |
+| Python (Pandas, NumPy) | `███████░░░` Good |
+| Excel / Data Cleaning | `███████░░░` Good |
+| SQLite | `██████░░░░` Intermediate |
+| MongoDB | `██████░░░░` Intermediate |
 
 </div>
 
@@ -38,23 +55,31 @@
 
 ## 🚀 Featured Projects
 
-### 🤖 AI-Based Exam Seating Arrangement System
-> *React.js · Node.js · Express.js · MongoDB · Rule-Based AI*
+### 📊 Sales & Customer Data Analytics Dashboard (RFM Segmentation)
+> *Python · Pandas · SQL · HTML Dashboard*
 
-- Engineered an intelligent seating allocation system using **rule-based AI algorithms** for large student datasets
-- **Reduced manual exam planning time by 80%** through automated seat assignment and hall optimization
-- Designed a scalable **Node.js + MongoDB** backend API capable of processing high-volume records
-- Built an intuitive **React.js** frontend for admins to configure constraints and generate seating charts in real time
+- Performed **RFM (Recency, Frequency, Monetary) segmentation** to classify customers by value and behavior
+- Cleaned and transformed raw sales data using **Python and SQL** for accurate downstream analysis
+- Built an interactive **HTML dashboard** to visualize customer segments and sales trends for business decision-making
 
 ---
 
-### 🛒 Lumina — Full-Stack E-Commerce Platform
-> *React.js · Node.js · Express.js · MongoDB · HTML5 · CSS3 · JavaScript*
+### 🎓 Student Performance & Attendance Analytics System
+> *Python · SQL · SQLite*
 
-- Architected a complete **MERN stack** e-commerce platform with end-to-end product lifecycle management
-- Built a fully functional **admin dashboard** for real-time product, order, and user management
-- Developed a **responsive, mobile-first UI** ensuring seamless cross-device user experience
-- Integrated dynamic product listing, shopping cart, and a **secure checkout workflow**
+- Designed a **SQLite-backed** analytics system to track and analyze student performance and attendance patterns
+- Wrote **SQL queries** to surface trends, outliers, and at-risk students from raw academic records
+- Built to be interview-defensible — covers the full pipeline from data storage to insight generation
+
+---
+
+### 📈 Power BI Dashboard Suite (HR Analytics · Amazon Prime Video · IPL)
+> *Power BI · DAX · Power Query*
+
+- Built an **HR Analytics dashboard** surfacing attrition trends, headcount, and workforce metrics
+- Created a **content analytics dashboard** analyzing Amazon Prime Video catalog and viewing patterns
+- Developed an **IPL performance dashboard** visualizing team and player statistics across seasons
+- Applied **DAX measures and Power Query transformations** to build clean, interactive reports
 
 ---
 
