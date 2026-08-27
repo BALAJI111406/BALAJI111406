@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&height=80&lines=Hi+there%2C+I'm+Balaji+G+%F0%9F%91%8B;Data+Analyst;Python+%7C+SQL+%7C+Power+BI+%7C+Pandas;Turning+Raw+Data+into+Business+Insights+%F0%9F%93%8A" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&height=80&lines=Hi+there%2C+I'm+Balaji+G+%F0%9F%91%8B;Aspiring+Data+Analyst;Python+%7C+SQL+%7C+Power+BI+%7C+Pandas;Turning+Raw+Data+into+Business+Insights+%F0%9F%93%8A" alt="Typing SVG" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1000&color=8B949E&center=true&vCenter=true&width=560&height=40&lines=CS+Engineering+Student+%40+KGiSL+Institute+of+Technology;Google+%26+IBM+Data+Analytics+Certified;Open+to+Data+Analyst+Internships!" alt="Subtitle" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1000&color=8B949E&center=true&vCenter=true&width=560&height=40&lines=CS+Engineering+Student+%40+KGiSL+Institute+of+Technology;Learning+Data+Analytics+through+real+projects;Open+to+Data+Analyst+Internships!" alt="Subtitle" />
 
 </div>
 
@@ -13,11 +13,11 @@
 ## 🙋‍♂️ About Me
 
 - 🎓 B.E. in **Computer Science & Engineering** at **KGiSL Institute of Technology** (CGPA: 8.13/10)
-- 📊 **Google & IBM Data Analytics Certified**
+- 📊 **Aspiring Data Analyst** — building skills through hands-on projects
 - 🔍 Skilled in **data cleaning, EDA, SQL querying, and dashboard storytelling**
 - 💻 Hands-on experience with **Python (Pandas, NumPy), SQL, SQLite, MongoDB, and Power BI**
 - 📈 Built multiple end-to-end analytics projects — from RFM segmentation to HR & sports analytics dashboards
-- 🌱 Exploring **DAX, Power Query, and advanced data modeling**
+- 🌱 Currently learning **DAX, Power Query, and advanced data modeling**
 - 📍 Based in **Coimbatore, Tamil Nadu, India**
 - 📫 **balasai1406@gmail.com**
 - 🚀 Seeking a **Data Analyst Internship**
